@@ -2,7 +2,7 @@
 
 <b>Project Logo:</b>
 
-![Alt text](/img/Logos/Logo.png)
+![Alt text](/img/Logo/Logo.png)
 
 <b>Description:</b>
 
