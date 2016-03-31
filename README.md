@@ -1,7 +1,7 @@
 # GUI-Project
 
 <b>Project Logo:</b>
-![Alt text](img/Logos/Logo.png)
+![Alt text](/img/Logos/Logo.png)
 
 Description:
 
