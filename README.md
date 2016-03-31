@@ -17,13 +17,14 @@ Coming soon!
 Would be great if I had an idea.
 
 <b>Contribution Guidelines:</b><br />
-Coming soon!
+Coming Soon!
 
 <b>Bugs/TODO List:</b><br />
 N/A
 
 <b>Contributors:</b><br />
-Currently me, myself, and I.
+[Sasha Iliyn](https://github.com/SashaIliyn)<br />
+[Albert Sta Cruz](https://github.com/aStaCruz)<br />
 
 <b>Inspiration:</b><br />
 Still searching.
