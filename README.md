@@ -1,22 +1,23 @@
 # GUI-Project
 
 <b>Project Logo:</b>
+
 ![Alt text](/img/Logos/Logo.png)
 
-Description:
+<b>Description:</b>
 
-Technologies:
+<b>Technologies:</b>
 
-Screenshots/Mockup:
+<b>Screenshots/Mockup:</b>
 
-Installation Instructions:
+<b>Installation Instructions:</b>
 
-Contribution Guidelines:
+<b>Contribution Guidelines:</b>
 
-Bugs/TODO List:
+<b>Bugs/TODO List:</b>
 
-Contributors:
+<b>Contributors:</b>
 
-Inspiration:
+<b>Inspiration:</b>
 
-License:
+<b>License:</b>
