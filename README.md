@@ -1,6 +1,7 @@
 # GUI-Project
 
 <b>Project Logo:</b>
+![Alt text](img/Logos/Logo.png?raw=true "logo")
 
 Description:
 
